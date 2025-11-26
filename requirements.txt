@@ -1,7 +1,10 @@
 langchain
+langchain_community
 langgraph
 python-dotenv
 langchain-groq
 langchain-openai
 streamlit
 fastapi
+wikipedia
+ddgs
