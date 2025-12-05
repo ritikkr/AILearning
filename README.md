@@ -1,6 +1,9 @@
 ### Learning
 https://excalidraw.com/#json=oYxujpWrXxGo-NZ0_aeDO,DoXlRnQ85LtXGSAEENW3Cw
 
+Vectors is just like a numerical representation of text in numbers.
+
+
 
 ![alt text](image.png)
 
