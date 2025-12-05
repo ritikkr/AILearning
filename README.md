@@ -1,7 +1,7 @@
 ### Learning
 https://excalidraw.com/#json=oYxujpWrXxGo-NZ0_aeDO,DoXlRnQ85LtXGSAEENW3Cw
 
-Vectors is just like a numerical representation of text in numbers.
+Vectors is just like a numerical representation of text in numbers. so that you can apply techniques like similarity search, cosine similarity . similar kind of result can be retried from the vector database.
 
 
 
