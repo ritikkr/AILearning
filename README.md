@@ -1,5 +1,8 @@
 ### Learning
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJZUXgxY3ZZRHJmS0FBUm4tRmg5Q0tNQU9aZ3xBQ3Jtc0tuLUhrZmJSUGVmbXBfTEZXWXRleUx3LVNGZ1BPdmxuMGx0ekxVQ29YRVdtRFFjeG5xejAxSWRHV19Qcmo0RWdYbjIyLVZaSEowYjdBN1ExRlNQMjg1V1AyYUpjWm5iTzhoVk9VNzVqV2lKTUtnODBFYw&q=https%3A%2F%2Fexcalidraw.com%2F%23json%3DoYxujpWrXxGo-NZ0_aeDO%2CDoXlRnQ85LtXGSAEENW3Cw&v=VioF7v8Mikg
+https://excalidraw.com/#json=oYxujpWrXxGo-NZ0_aeDO,DoXlRnQ85LtXGSAEENW3Cw
+
+Vectors is just like a numerical representation of text in numbers. so that you can apply techniques like similarity search, cosine similarity . similar kind of result can be retried from the vector database.
+
 
 
 ![alt text](image.png)
@@ -23,5 +26,10 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJ
 ![alt text](image-10.png)
 ![alt text](<Screenshot 2025-11-28 at 4.00.46 AM.png>)
 
+<img width="1766" height="632" alt="image" src="https://github.com/user-attachments/assets/51e37a8b-15eb-495f-8e05-2b969e3ecc1a" />
+
 Reinforcement Learning with human feedback (RLHF)
+
+https://www.trychroma.com/?gad_source=1&gad_campaignid=23211005173&gbraid=0AAAABBrV6L9l_6mg1DyJMQ6sAbknqN5U1&gclid=CjwKCAiA86_JBhAIEiwA4i9JuzJiusurYZizpHGZ2-nQI3KIOtT0mypk7QIAq-JXwPDhjoVZqwTnTRoCKfkQAvD_BwE
+
 ![alt text](image-9.png)
