@@ -20,6 +20,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJ
 
 ![alt text](image-8.png)
 
+![alt text](image-10.png)
 ![alt text](<Screenshot 2025-11-28 at 4.00.46 AM.png>)
 
 Reinforcement Learning with human feedback (RLHF)
