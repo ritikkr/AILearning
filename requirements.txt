@@ -8,3 +8,5 @@ streamlit
 fastapi
 wikipedia
 ddgs
+pypdf
+pymupdf
