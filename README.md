@@ -51,3 +51,11 @@ https://www.trychroma.com/?gad_source=1&gad_campaignid=23211005173&gbraid=0AAAAB
 4. .venv\Scripts\Activate
 5. create requirements.txt ( add depedencies)
 6. uv add -r requirements.txt
+
+
+## Document data structure langchain
+https://reference.langchain.com/python/langchain_core/documents/
+
+Document loader converts the document data into langchain document structure
+
+![alt text](image-12.png)
