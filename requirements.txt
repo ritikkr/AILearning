@@ -1,5 +1,6 @@
 langchain
 langchain_community
+langchain_text_splitters
 langgraph
 python-dotenv
 langchain-groq
@@ -10,3 +11,6 @@ wikipedia
 ddgs
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
