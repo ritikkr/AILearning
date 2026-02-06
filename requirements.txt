@@ -14,3 +14,6 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
+langchain_core
+pydantic
+langchain_google_genai
